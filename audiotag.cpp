@@ -3,7 +3,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <string.h>
-#include "fileio.h"
+#include "fileio.hh"
 
 #define ID3_2_MAX_FRAME_SIZE 60
 #define ID3_1_FRAME_SIZE 30
